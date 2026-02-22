@@ -56,7 +56,6 @@ Dataset is not included in this repository.
 Source: Online Retail dataset referenced in the Forage simulation resources (originally from the UCI repository).
 
 ## Certificate
-![Tata Forage Certificate](./tata-forage-data-visualisation/certificate.png)
-
+![Tata Forage Certificate](./certificate.png)
 ## Author
 Shubhangi Pawar
