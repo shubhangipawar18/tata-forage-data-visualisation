@@ -27,9 +27,16 @@ I then used:
 ## Screenshots
 See: [`/screenshots`](./screenshots)
 - Q1: Monthly Revenue Trend (2011)
+![Q1 Monthly Revenue Trend](./screenshots/Screenshot_1.png)
+  
 - Q2: Top 10 Countries by Revenue (Excl. UK) + Quantity
+![Q2 Top Countries](./screenshots/Screenshot_2.png)
+  
 - Q3: Top 10 Customers by Revenue
+![Q3 Top Customers](./screenshots/Screenshot_3.png)
+  
 - Q4: Total Quantity by Country (Excl. UK)
+![Q4 Demand Treemap](./screenshots/Screenshot_4.png)
 
 ## Files
 - Power BI report: `powerbi/Shubhangi_Pawar_Tata_Forage_Task3.pbix` 
@@ -41,12 +48,15 @@ See: [`/screenshots`](./screenshots)
 3. Navigate through the pages: **Question 1 → Question 4**.
 
 ## Video walkthrough (Task 4)
-- Add a public share link here [(https://drive.google.com/file/d/1ezqsCSvRKKGRlqIpw9Bkda2ErD6M_IKc/view?usp=sharing)](https://drive.google.com/file/d/1ezqsCSvRKKGRlqIpw9Bkda2ErD6M_IKc/view?usp=sharing) 
+- [Watch the video walkthrough] [(https://drive.google.com/file/d/1ezqsCSvRKKGRlqIpw9Bkda2ErD6M_IKc/view?usp=sharing)](https://drive.google.com/file/d/1ezqsCSvRKKGRlqIpw9Bkda2ErD6M_IKc/view?usp=sharing) 
 
 
 ## Dataset
 Dataset is not included in this repository.  
 Source: Online Retail dataset referenced in the Forage simulation resources (originally from the UCI repository).
+
+## Certificate
+![Tata Forage Certificate](./tata-forage-data-visualisation/certificate.png)
 
 ## Author
 Shubhangi Pawar
