@@ -69,7 +69,7 @@ Source: Online Retail dataset referenced in the Forage simulation resources (ori
 ### Background
 Former SNOC Engineer at Vodafone with 2+ years of telecom operations experience. Now combining domain expertise with data analytics skills to drive business insights.
 
----
+
 
 
 
@@ -78,7 +78,7 @@ Former SNOC Engineer at Vodafone with 2+ years of telecom operations experience.
 - Dataset: [IBM Sample Data via Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Tools: PostgreSQL, Power BI
 
----
+
 
 ⭐ **If you found this project useful, please give it a star!**
 
